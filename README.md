@@ -6,7 +6,6 @@ Here I am collecting my python scripts, Toturials and projects looking to collab
 <a id="raw-url" href="https://scholar.google.com/citations?user=m_HpWz8AAAAJ&hl=en">my scholar page</a>
 
 
-
 ![alt text](https://github.com/Yavar-Azar/Blenders/blob/main/mine.png)
 
 <!--
