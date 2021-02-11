@@ -6,6 +6,12 @@ Here I am collecting my python scripts, Toturials and projects looking to collab
 <a id="raw-url" href="https://scholar.google.com/citations?user=m_HpWz8AAAAJ&hl=en">my scholar page</a>
 
 
+
+## Find me elsewhere  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yavar-taghipour-1262a237/)](https://www.linkedin.com/in/yavar-taghipour-1262a237/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yavar_T__Azar)](https://twitter.com/Yavar_T__Azar)
+
+
 ![alt text](https://github.com/Yavar-Azar/Blenders/blob/main/mine.png)
 
 <!--
