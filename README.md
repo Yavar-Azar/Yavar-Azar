@@ -7,7 +7,7 @@ Here I am collecting my python scripts, Toturials and projects looking to collab
 
 
 
-![alt text](https://github.com/Yavar-Azar/Blenders/blob/main/mine.png =250x)
+![alt text](https://github.com/Yavar-Azar/Blenders/blob/main/mine.png)
 
 <!--
 **Yavar-Azar/Yavar-Azar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
