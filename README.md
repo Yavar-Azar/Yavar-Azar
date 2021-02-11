@@ -1,7 +1,8 @@
 ### Hi, I am Yavar T. Azar
 
-I am currenly woeking on computational material science, focusing on multiscale approaches.
-
+As a researcher, I am currenly woeking on computational material science, focusing on multiscale approaches.
+Here I am collecting my python scripts, Toturials and projects looking to collaborate on them.
+my scholar page: https://scholar.google.com/citations?user=m_HpWz8AAAAJ&hl=en
 <!--
 **Yavar-Azar/Yavar-Azar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
