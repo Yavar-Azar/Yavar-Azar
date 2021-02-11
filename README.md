@@ -7,10 +7,9 @@ Here I am collecting my python scripts, Toturials and projects looking to collab
 
 ## Find me elsewhere  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yavar-taghipour-1262a237/)](https://www.linkedin.com/in/yavar-taghipour-1262a237/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yavar_T__Azar)](https://twitter.com/Yavar_T__Azar)
-[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Yavar_Taghipour)   
- [![Publons Badge](https://img.shields.io/badge/Publons-Profile-red)](https://publons.com/researcher/3401585/yavar-t-azar/) 
-[![scholar Badge](https://img.shields.io/badge/google-scholar-blue)](https://scholar.google.com/citations?user=m_HpWz8AAAAJ&hl=en)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yavar-taghipour-1262a237/)](https://www.linkedin.com/in/yavar-taghipour-1262a237/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yavar_T__Azar)](https://twitter.com/Yavar_T__Azar) 
+
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Yavar_Taghipour) [![Publons Badge](https://img.shields.io/badge/Publons-Profile-red)](https://publons.com/researcher/3401585/yavar-t-azar/) [![scholar Badge](https://img.shields.io/badge/google-scholar-blue)](https://scholar.google.com/citations?user=m_HpWz8AAAAJ&hl=en)
 
 
 ![alt text](https://github.com/Yavar-Azar/Blenders/blob/main/mine.png)
