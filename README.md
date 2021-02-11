@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Yavar T. Azar
+
+I am currenly woeking on computational material science, focusing on multiscale approaches.
 
 <!--
 **Yavar-Azar/Yavar-Azar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
