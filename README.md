@@ -1,8 +1,7 @@
 ### Hi, I am Yavar T. Azar
 
 As a researcher, I am currenly working on computational material science, focusing on multiscale approaches.
-Here I am collecting my python scripts, Toturials and projects looking to collaborate on them.
-
+Here I am collecting my python scripts, Toturials and projects.
 
 
 ## Find me elsewhere  
